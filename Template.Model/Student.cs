@@ -32,5 +32,10 @@ namespace Template.Model
 
         }
 
+        public void AddNewTeacher(Teacher tutor)
+        {
+
+        }
+
     }
 }
